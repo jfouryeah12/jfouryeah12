@@ -6,7 +6,7 @@ I'm Echo.
 <p align='center'>You can reach me at @  <a href="https://www.facebook.com/echo.estares/">Facebook</a> or <a href="https://twitter.com/jerichoybanez36">Twitter</a>.</p>
   <!-- Hi there! Feel free to make this your own but don't use my data. Attributions are welcomed --> 
 <h3><br>The<br>Idiot chicken who create programs for fun.😂</h3>
-<h6>You can talk to me on <a href="https://www.facebook.com/echo.estares/">Facebook</a>, and sometimes just chilling on <a href="https://discord.gg/nDTR57Sy">Discord</a>, and I'm 3rd Yr College at <a href="https://www.facebook.com/sjdelmonte.sti.edu">Sti College</a>.
+<h6>You can talk to me on <a href="https://www.facebook.com/echo.estares/">Facebook</a>, and sometimes just chilling on <a href="https://discord.gg/nDTR57Sy">Discord</a>, and I'm 3rd Yr College at <a href="https://www.facebook.com/sjdelmonte.sti.edu">Sti College</a>, as Bachelor of Science in Information Technology.
   
 </h6>
 
