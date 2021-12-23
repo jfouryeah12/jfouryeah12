@@ -1,8 +1,6 @@
 <h1 align='center'> Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<p align='center'>
-I'm Jericho.
-</p>
+
 <p align='center'>You can reach me at @  <a href="https://www.facebook.com/echo.estares/">Facebook</a> or <a href="https://twitter.com/jerichoybanez36">Twitter</a>.</p>
   <!-- Hi there! Feel free to make this your own but don't use my data. Attributions are welcomed --> 
 <h3>Hi! 😂<br>I'm Jericho Estares<br>An idiot chicken who create programs for fun.</h3>
