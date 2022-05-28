@@ -77,15 +77,10 @@ In addition, I am an open-source supporter and maintainer. I learnt a lot from t
 
 <!-- BLOG-POST-LIST:START -->
 
-- [MaxSoft - IntelliAPI](https://medium.com/intelliapi)
-- [MaxSoft - GReporter](https://medium.com/greporter)
-- [MaxSoft - TestNG Test Results Analyzer](https://medium.com/testng-test-results-analyzer)
-- [MaxSoft - API Health Checker](https://medium.com/api-health-checker)
-- [MaxSoft - Extent Reporter](https://medium.com/extent-reporter)
-- [MaxSoft - WebDriver Manager](https://medium.com/webdrivermanager)
-- [MaxSoft - Test Automation Master](https://medium.com/automationmaster)
-- [eye4U – An Effective Mobile Based Solution for the Visually Impaired]()
-- [MySight – A New Vision for the Blind Community](http://repository.kln.ac.lk/handle/123456789/15632)
+- [AI - IdentifEYE-Mobile](https://github.com/jfouryeah12/IdentifEYE-Mobile)
+- [Design - Tophet*(Anti-Virus)](https://github.com/jfouryeah12/Tophet)
+- [Web - PocketBookWorld](http://pocketbookworld.rf.gd/?i=1)
+- [Pentesting - CryptographyTools](https://github.com/jfouryeah12/Cryptography-Tools)
 <!-- BLOG-POST-LIST:END -->
 <hr>
 
