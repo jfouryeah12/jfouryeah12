@@ -53,7 +53,7 @@ In addition, I am an open-source supporter and maintainer. I learnt a lot from t
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/2560px-Unity_Technologies_logo.svg.png"> <!--unity-->
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Unreal_Engine_Logo.svg/1971px-Unreal_Engine_Logo.svg.png"> <!--UE-->
 <img height="40" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a9326d72465217.5be8ae1c0a8a7.png"> <!--AS-->
-  
+<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png"> <!--Git Desktop-->
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> <!--Android Studio-->
 </p>
 <hr>
