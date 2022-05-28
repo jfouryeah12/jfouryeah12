@@ -27,7 +27,6 @@ In addition, I am an open-source supporter and maintainer. I learnt a lot from t
 
   <img align="right" alt="GIF" src="https://github.com/jfouryeah12/jfouryeah12/blob/main/computerEcho.gif" width="500" height="320" />
   
-- 💼 Any freelance work? Please do reach via [email](mailto:osanda.deshan@gmail.com). 😊
 - 💬 Ask me about anything, I am happy to help.
 <br />
 
