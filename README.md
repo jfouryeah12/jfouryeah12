@@ -30,6 +30,11 @@ In addition, I am an open-source supporter and maintainer. I learnt a lot from t
   <img align="right" alt="GIF" src="https://github.com/jfouryeah12/jfouryeah12/blob/main/computerEcho.gif" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help.
+  
+<br />
+ ## 🎮 Wanna play?
+ <img alt="https://steamcommunity.com/id/jerichoybanez36/" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+ <img  src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"> I only play Valorant :)
 <br />
 
 ## 🛠️ Languages/Tools:
@@ -110,4 +115,6 @@ Ruby             30 mins   ███░░░░░░░░░░░░░░�
 <p>
 <hr>
 
-<img src="https://c.tenor.com/zCEj81VKngEAAAAi/potato.gif" width="60"> <em><b>I love connecting with different people.</b> If you want to say <b>Hi, I will be happy to meet you!</b> 😃</em>
+<img src="https://c.tenor.com/zCEj81VKngEAAAAi/potato.gif" width="60"> <em><b>I love connecting with different people.</b> If you want to say <b>Hi, I will be happy to meet you!</b> 😃</em
+  
+
