@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me:
 
-Hello, my name is [Echo](https://github.com/jfouryeah12?tab=repositories), and I specialize in Information Technology and Deep Learning in a wide range of automation. Solid code and reliable automation scripts are the consequence of being organized, methodical, and meticulous. Understanding client needs and conveying project progress are essential for building long-term business relationships.
+Hello, my name is [Echo](https://github.com/jfouryeah12?tab=repositories), and I'm a college student studying Information Technology with a concentration on Deep Learning in a variety of fields. Being systematic, thorough, and meticulous results in solid code and trustworthy creation scripts. Building requires understanding criterion requirements and communicating project progress.
 
 I am an enthusiastic person who is fascinated by new technologies. I've always been good at solving problems and coming up with new ideas. I prefer to come up with innovative techniques and systems to find new solutions. I'm self-motivated and driven, and I'm always trying out new technologies and strategies. The experience, architecture, and code quality of the solutions I create are all very important to me.
 
