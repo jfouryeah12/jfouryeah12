@@ -32,10 +32,6 @@ In addition, I am an open-source supporter and maintainer. I learnt a lot from t
 - 💬 Ask me about anything, I am happy to help.
   
 <br />
- ## 🎮 Wanna play?
- <img alt="https://steamcommunity.com/id/jerichoybanez36/" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
- <img  src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"> I only play Valorant :)
-<br />
 
 ## 🛠️ Languages/Tools:
 
