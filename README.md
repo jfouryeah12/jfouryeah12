@@ -113,4 +113,4 @@ Ruby             30 mins   ███░░░░░░░░░░░░░░�
 <p>
 <hr>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people.</b> If you want to say <b>Hi, I will be happy to meet you!</b> 😃</em>
+<img src="https://c.tenor.com/zCEj81VKngEAAAAi/potato.gif" width="60"> <em><b>I love connecting with different people.</b> If you want to say <b>Hi, I will be happy to meet you!</b> 😃</em>
