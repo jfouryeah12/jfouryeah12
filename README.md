@@ -17,6 +17,7 @@
 <a href="https://github.com/jfouryeah12?tab=stars">
   <img alt="GitHub followers" src="https://img.shields.io/github/stars/jfouryeah12?color=yellow&logo=github">
 </a>
+
 <br />
 
 ## 👨‍💻 About Me:
@@ -112,5 +113,4 @@ Ruby             30 mins   ███░░░░░░░░░░░░░░�
 <hr>
 
 <img src="https://c.tenor.com/zCEj81VKngEAAAAi/potato.gif" width="60"> <em><b>I love connecting with different people.</b> If you want to say <b>Hi, I will be happy to meet you!</b> 😃</em
-  
 
