@@ -106,6 +106,7 @@ Ruby             30 mins   ███░░░░░░░░░░░░░░�
   <img src="https://github-readme-stats.vercel.app/api?username=jfouryeah12&show_icons=true&theme=gotham" alt="jfouryeah12" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfouryeah12&layout=compact&theme=gotham" alt="jfouryeah12" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jfouryeah12" alt="jfouryeah12" />
 <p>
 <hr>
 
