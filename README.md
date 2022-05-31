@@ -28,6 +28,7 @@ I am an enthusiastic person who is fascinated by new technologies. I've always b
 
 In addition, I am an open-source supporter and maintainer. I learnt a lot from the open-source community, and I admire how open-source communities facilitate cooperation and information exchange.
 
+  
   <img align="right" alt="GIF" src="https://github.com/jfouryeah12/jfouryeah12/blob/main/computerEcho.gif" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help.
