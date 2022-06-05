@@ -2,17 +2,21 @@
 
 <a href="https://www.facebook.com/echo.estares/">
   <img align="left" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
+<a href="https://stackoverflow.com/users/14049152/jericho?tab=profile">
+  <img alt="Stackoverflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height=25>
 <a href="https://twitter.com/jerichoybanez36">
   <img align="left" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-</a> 
+</a>
+  
 <a href="https://www.linkedin.com/in/jericho-estares-883837218/">
   <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
-<a href="https://github.com/jfouryeah12?tab=repositories">
-  <img align="left" src="https://komarev.com/ghpvc/?username=jfouryeah12" alt="page views" />
-</a>
+
 <a href="https://github.com/jfouryeah12?tab=followers">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/jfouryeah12?color=green&logo=github">
+</a>
+<a href="https://github.com/jfouryeah12?tab=repositories">
+  <img align="left" src="https://komarev.com/ghpvc/?username=jfouryeah12" alt="page views" />
 </a>
 <a href="https://github.com/jfouryeah12?tab=stars">
   <img alt="GitHub followers" src="https://img.shields.io/github/stars/jfouryeah12?color=yellow&logo=github">
