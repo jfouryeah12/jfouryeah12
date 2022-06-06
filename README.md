@@ -55,7 +55,6 @@ In addition, I am an open-source supporter and maintainer. I learnt a lot from t
 <img height="40" src="https://www.easyredmine.com/ER/media/images/articles/p14/f2596/logo.png"> <!--Ruby-->
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"> <!--C#-->
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"> <!--VSC-->
-
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> <!--angular-->
 <img height="40" src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png"> <!--VS-->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <!--MDB-->
@@ -70,8 +69,7 @@ In addition, I am an open-source supporter and maintainer. I learnt a lot from t
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> <!--sqlServer-->
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <!--flask-->
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> <!--sqllite-->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <!--Linux-->
-  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <!--Linux--> 
 <img height="40" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a9326d72465217.5be8ae1c0a8a7.png"> <!--AS-->
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png"> <!--Git Desktop-->
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <!--Firebase-->
