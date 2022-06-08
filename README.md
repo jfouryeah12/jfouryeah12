@@ -79,10 +79,10 @@ In addition, I am an open-source supporter and maintainer. I learnt a lot from t
 
 
 ## 🥇 Credentials:
-| Credentials | Issuer | Link | Issued Date |
-| ------------ | ------------ | ------------ | ------------ |
-| SAP Business One Certificate | [STI SJDM](https://www.facebook.com/sjdelmonte.sti.edu) | [Badge]("") | March 1, 2021 |
-| SAP Business One (Financial and Logistic) | [STI SJDM](https://www.facebook.com/sjdelmonte.sti.edu) | [Badge]("") | March 1, 2021 |
+| Credentials | Issuer | Issued Date |
+| ------------ | ------------ | ------------ |
+| SAP Business One Certificate | [STI SJDM](https://www.facebook.com/sjdelmonte.sti.edu) | March 1, 2021 |
+| SAP Business One (Financial and Logistic) | [STI SJDM](https://www.facebook.com/sjdelmonte.sti.edu) | March 1, 2021 |
 <hr>
 
 <!--## 🏆 Honors and Awards:
