@@ -76,6 +76,7 @@ In addition, I am an open-source supporter and maintainer. I learnt a lot from t
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <!--Git Bash-->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> <!--Rust-->
 <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> <!--Perl-->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> <!--Scala-->
 </p>
 <hr>
 
