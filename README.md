@@ -74,6 +74,8 @@ In addition, I am an open-source supporter and maintainer. I learnt a lot from t
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png"> <!--Git Desktop-->
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <!--Firebase-->
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <!--Git Bash-->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> <!--Rust-->
+<img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> <!--Perl-->
 </p>
 <hr>
 
