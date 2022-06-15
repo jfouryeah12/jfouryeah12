@@ -53,7 +53,7 @@ In addition, I am an open-source supporter and maintainer. I learnt a lot from t
 <img height="40" src="https://repository-images.githubusercontent.com/154894138/2baa3800-6439-11e9-8087-ed48821d8e04"><!--Cobol-->
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"> <!--C++-->
 <img height="40" src="https://www.easyredmine.com/ER/media/images/articles/p14/f2596/logo.png"> <!--Ruby-->
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"> <!--C#-->
+<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="c#" width="40" height="40"> <!--C#-->
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"> <!--VSC-->
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> <!--angular-->
 <img height="40" src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png"> <!--VS-->
