@@ -101,7 +101,7 @@ In addition, I am an open-source supporter and maintainer. I learnt a lot from t
 
 - [Web - IdentifEYE](https://identifeyeph.web.app/)
 - [AI - IdentifEYE-Mobile](https://identifeyeph.web.app/dl-page/download.html)
-- [AI/Pentesting - AGUSTO](https://identifeyeph.web.app/dl-page/download.html)
+- [AI/Pentesting - AGUSTO](https://github.com/jfouryeah12/AGUSTO)
 - [Design - Tophet*(Anti-Virus)](https://github.com/jfouryeah12/Tophet)
 - [Web - PocketBookWorld](http://pocketbookworld.rf.gd/?i=1)
 - [Pentesting - CryptographyTools](https://github.com/jfouryeah12/Cryptography-Tools)
@@ -114,10 +114,10 @@ In addition, I am an open-source supporter and maintainer. I learnt a lot from t
 <!--START_SECTION:waka-->
 
 ```text
-Java         2 h 13 mins   ██████████████▒░░░░░░░░░░   39.26 %
+C#         11 h 13 mins   ████████████████░░░░░░░   68.26 %
 Python       1 h 21 mins   ████████▓░░░░░░░░░░░░░░░░   25.39 %
-C#           1 h 15 mins   ███████▓░░░░░░░░░░░░░░░░░   23.51 %
-Ruby             30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   09.41 %
+Java       1 h 15 mins   ███████▓░░░░░░░░░░░░░░░░░   23.51 %
+css/html             9 mins   ███░░░░░░░░░░░░░░░░░░░░░░   09.41 %
 ```
 
 <!--END_SECTION:waka-->
