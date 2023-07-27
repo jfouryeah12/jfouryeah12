@@ -99,7 +99,7 @@ In addition, I am an open-source supporter and maintainer. I learnt a lot from t
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Web - SourceGoose]([https://identifeyeph.web.app/](https://source-goose-official.vercel.app/))
+- [Web - SourceGoose](https://source-goose-official.vercel.app/)
 - [Web - IdentifEYE](https://identifeyeph.web.app/)
 - [AI - IdentifEYE-Mobile](https://identifeyeph.web.app/dl-page/download.html)
 - [AI/Pentesting - AGUSTO](https://github.com/jfouryeah12/AGUSTO)
