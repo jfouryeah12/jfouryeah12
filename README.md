@@ -77,6 +77,9 @@ In addition, I am an open-source supporter and maintainer. I learnt a lot from t
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> <!--Rust-->
 <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> <!--Perl-->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> <!--Scala-->
+<img src="https://prismalens.vercel.app/header/logo-dark.svg" alt="prisma" width="50" height="50"/> <!--Prisma-->
+<img src="https://www.convex.dev/og_image_twitter.png" alt="scala" width="40" height="40"/> <!--Convex-->
+  <img src="https://media.licdn.com/dms/image/D560BAQHwqwrfFx1VWQ/company-logo_200_200/0/1665181308480?e=2147483647&v=beta&t=iMYIiUyWgAE58Hgtt4BPkmJNPXBK_8VqfiWod6gwz44" alt="scala" width="40" height="40"/> <!--Clerk-->
 </p>
 <hr>
 
