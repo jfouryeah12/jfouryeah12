@@ -117,6 +117,8 @@ In addition, I am an open-source supporter and maintainer. I learnt a lot from t
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=29ec5c8b9536fe3f515d7cb8e830ba1b)](https://gist.github.com/jfouryeah12/29ec5c8b9536fe3f515d7cb8e830ba1b)
 
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=29ec5c8b9536fe3f515d7cb8e830ba1b)](https://gist.github.com/jfouryeah12/be055ba0597d91df59c6e0360f3a3531)
+
 <!--END_SECTION:waka-->
 <hr>
 
