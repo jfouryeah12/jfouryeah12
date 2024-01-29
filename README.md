@@ -115,14 +115,7 @@ In addition, I am an open-source supporter and maintainer. I learnt a lot from t
 
 ## ⏳ In This Week, I Spent My Time On:
 
-<!--START_SECTION:waka-->
-
-```text
-C#         11 h 13 mins   ████████████████░░░░░░░   68.26 %
-Python       1 h 21 mins   ████████▓░░░░░░░░░░░░░░░░   25.39 %
-Java       1 h 15 mins   ███████▓░░░░░░░░░░░░░░░░░   23.51 %
-css/html             9 mins   ███░░░░░░░░░░░░░░░░░░░░░░   09.41 %
-```
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=29ec5c8b9536fe3f515d7cb8e830ba1b)](https://gist.github.com/jfouryeah12/29ec5c8b9536fe3f515d7cb8e830ba1b)
 
 <!--END_SECTION:waka-->
 <hr>
