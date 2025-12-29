@@ -1,137 +1,84 @@
+<div align="center">
+
 ![Header](./img/jericho-header.png)
 
-<a href="https://www.facebook.com/echo.estares/">
-  <img align="left" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
-<a href="https://stackoverflow.com/users/14049152/jericho?tab=profile">
-  <img alt="Stackoverflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height=25>
-<a href="https://twitter.com/jerichoybanez36">
-  <img align="left" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-</a>
-  
-<a href="https://www.linkedin.com/in/jericho-estares-883837218/">
-  <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a> 
-
-<a href="https://github.com/jfouryeah12?tab=followers">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/jfouryeah12?color=green&logo=github">
-</a>
-<a href="https://github.com/jfouryeah12?tab=repositories">
-  <img align="left" src="https://komarev.com/ghpvc/?username=jfouryeah12" alt="page views" />
-</a>
-<a href="https://github.com/jfouryeah12?tab=stars">
-  <img alt="GitHub followers" src="https://img.shields.io/github/stars/jfouryeah12?color=yellow&logo=github">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=IT+Graduate;Deep+Learning+Specialist;Open+Source+Maintainer;Problem+Solver" alt="Typing SVG" />
 </a>
 
-<br />
-
-## 👨‍💻 About Me:
-
-Hello, my name is [Echo](https://github.com/jfouryeah12?tab=repositories), and I'm a college graduate from Information Technology with a concentration on Deep Learning in a variety of fields. Being systematic, thorough, and meticulous results in solid code and trustworthy creation scripts. Building requires understanding criterion requirements and communicating project progress.
-
-I am an enthusiastic person who is fascinated by new technologies. I've always been good at solving problems and coming up with new ideas. I prefer to come up with innovative techniques and systems to find new solutions. I'm self-motivated and driven, and I'm always trying out new technologies and strategies. The experience, architecture, and code quality of the solutions I create are all very important to me.
-
-In addition, I am an open-source supporter and maintainer. I learnt a lot from the open-source community, and I admire how open-source communities facilitate cooperation and information exchange.
-
-  
-  <!--<img align="right" alt="GIF" src="https://github.com/jfouryeah12/jfouryeah12/blob/main/computerEcho.gif" width="500" height="320" />-->
-  <br>
-- 💬 Ask me about anything, I am happy to help.
-<br />
-
-## 🛠️ Languages/Tools:
-
-<p>
-<img height="40" src="https://user-images.githubusercontent.com/9147189/132085524-15175cb6-82a2-4337-a524-1e191200fb54.png"> <!--Java-->
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> <!--Node JS-->
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <!--Java Script-->
-<img height="40"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <!--Python-->
-<img height="40" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png"> <!--Azure-->
-<img height="40" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"> <!--dotnet-->
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> <!--html-->
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> <!--css-->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <!--mysql-->
-<img height="40" src="https://repository-images.githubusercontent.com/154894138/2baa3800-6439-11e9-8087-ed48821d8e04"><!--Cobol-->
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"> <!--C++-->
-<img height="40" src="https://www.easyredmine.com/ER/media/images/articles/p14/f2596/logo.png"> <!--Ruby-->
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="c#" width="40" height="40"> <!--C#-->
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"> <!--VSC-->
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> <!--angular-->
-<img height="40" src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png"> <!--VS-->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <!--MDB-->
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>  <!--unity-->
-<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40">  <!--UE-->
-<!--<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"> <!--OpenCV-->
-<!--<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"> -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <!--Postgresql--> 
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <!--gnubash-->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/><!--C-->
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> <!--jenkins-->
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> <!--sqlServer-->
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <!--flask-->
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> <!--sqllite-->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <!--Linux--> 
-<img height="40" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a9326d72465217.5be8ae1c0a8a7.png"> <!--AS-->
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png"> <!--Git Desktop-->
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <!--Firebase-->
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <!--Git Bash-->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> <!--Rust-->
-<img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> <!--Perl-->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> <!--Scala-->
-<img src="https://prismalens.vercel.app/header/logo-dark.svg" alt="prisma" width="50" height="50"/> <!--Prisma-->
-<img src="https://www.convex.dev/og_image_twitter.png" alt="scala" width="40" height="40"/> <!--Convex-->
-  <img src="https://media.licdn.com/dms/image/D560BAQHwqwrfFx1VWQ/company-logo_200_200/0/1665181308480?e=2147483647&v=beta&t=iMYIiUyWgAE58Hgtt4BPkmJNPXBK_8VqfiWod6gwz44" alt="scala" width="40" height="40"/> <!--Clerk-->
+<p align="center">
+  <a href="https://www.facebook.com/echo.estares/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+  <a href="https://stackoverflow.com/users/14049152/jericho?tab=profile"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+  <a href="https://twitter.com/jerichoybanez36"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jericho-estares-883837218/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
-<hr>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/jfouryeah12?style=flat-square&logo=github&label=Followers&color=2ea44f" alt="Followers">
+  <img src="https://img.shields.io/github/stars/jfouryeah12?style=flat-square&logo=github&label=Stars&color=dfb317" alt="Stars">
+  <img src="https://komarev.com/ghpvc/?username=jfouryeah12&label=Profile%20Views&color=0078d7&style=flat-square" alt="Views">
+</p>
 
-## 🥇 Credentials:
-| Credentials | Issuer | Issued Date |
-| ------------ | ------------ | ------------ |
-| SAP Business One Certificate | [STI SJDM](https://www.facebook.com/sjdelmonte.sti.edu) | March 1, 2021 |
-| SAP Business One (Financial and Logistic) | [STI SJDM](https://www.facebook.com/sjdelmonte.sti.edu) | March 1, 2021 |
-<hr>
+</div>
 
-<!--## 🏆 Honors and Awards:
+---
 
-| Honor/Award | Issuer | Link | Date |
-| ------------ | ------------ | ------------ | ------------ |
-| ?? | [??]("???") | [???]("???") | ??? |
-<hr>-->
+### 👨‍💻 About Me
 
-## ✍🏻 My Publications:
+I am a systematic and meticulous **Information Technology** professional with a core focus on **Deep Learning**. I am passionate about engineering trustworthy scripts and innovative systems to solve complex problems.
 
-<!-- BLOG-POST-LIST:START -->
+- 🔭 **Current Focus:** Open-source maintenance and AI development.
+- 💡 **Philosophy:** Quality code and transparent communication are the pillars of great architecture.
+- 💬 **Open for:** Brainstorming new ideas or helping with technical roadblocks.
 
-- [Web - SourceGoose](https://source-goose-official.vercel.app/)
-- [Web - IdentifEYE](https://identifeyeph.web.app/)
-- [AI - IdentifEYE-Mobile](https://identifeyeph.web.app/dl-page/download.html)
-- [AI/Pentesting - AGUSTO](https://github.com/jfouryeah12/AGUSTO)
-- [Design - Tophet*(Anti-Virus)](https://github.com/jfouryeah12/Tophet)
-- [Web - PocketBookWorld](http://pocketbookworld.rf.gd/?i=1)
-- [Pentesting - CryptographyTools](https://github.com/jfouryeah12/Cryptography-Tools)
+---
 
-<!-- BLOG-POST-LIST:END -->
-<hr>
+### 🛠️ Technical Ecosystem
 
-## ⏳ Shared Gist:
+<div align="center">
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=29ec5c8b9536fe3f515d7cb8e830ba1b)](https://gist.github.com/jfouryeah12/29ec5c8b9536fe3f515d7cb8e830ba1b)
+| **Core Languages** | **Web & Backend** | **Databases & Cloud** | **Tools & Engines** |
+| :--- | :--- | :--- | :--- |
+| ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-Postgres-336791?style=flat-square&logo=postgresql&logoColor=white) | ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white) |
+| ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=be055ba0597d91df59c6e0360f3a3531)](https://gist.github.com/jfouryeah12/be055ba0597d91df59c6e0360f3a3531)
+</div>
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=568ee170af2117ce1a4179cf917a3b6c)](https://gist.github.com/jfouryeah12/568ee170af2117ce1a4179cf917a3b6c1)
-<!--END_SECTION:waka-->
-<hr>
+---
 
-## 📈 My GitHub Stats:
+### 🚀 Featured Projects
 
-<p  align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=jfouryeah12&show_icons=true&theme=gotham" alt="jfouryeah12" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfouryeah12&layout=compact&theme=gotham" alt="jfouryeah12" />
-  <img src="https://github-profile-trophy.vercel.app/?username=jfouryeah12" alt="jfouryeah12" />
-<p>
-<hr>
+<div align="center">
 
-<img src="https://c.tenor.com/zCEj81VKngEAAAAi/potato.gif" width="60"> <em><b>I love connecting with different people.</b> If you want to say <b>Hi, I will be happy to meet you!</b> 😃
+| Project Name | Category | Tech Stack | Action |
+| :--- | :--- | :--- | :--- |
+| **SourceGoose** | 🌐 Web Platform | `Next.js` `Node.js` | [**Visit Site**](https://source-goose-official.vercel.app/) |
+| **IdentifEYE** | 👁️ Computer Vision | `Deep Learning` `Python` | [**Visit Site**](https://identifeyeph.web.app/) |
+| **AGUSTO** | 🛡️ Pentesting/AI | `AI` `Security` | [**View Repo**](https://github.com/jfouryeah12/AGUSTO) |
+| **Tophet** | 🎨 Security Design | `UI/UX` `Antivirus` | [**View Repo**](https://github.com/jfouryeah12/Tophet) |
+| **Crypto Tools** | 🔐 Cryptography | `Security` `Algorithms` | [**View Repo**](https://github.com/jfouryeah12/Cryptography-Tools) |
 
+</div>
+
+---
+
+### 🥇 Credentials & Certifications
+
+<div align="center">
+
+| Status | Certification Program | Authority | Date |
+| :---: | :--- | :--- | :--- |
+| ✅ | **SAP Business One Certificate** | STI SJDM | March 2021 |
+| ✅ | **SAP Business One (Financial & Logistic)** | STI SJDM | March 2021 |
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://c.tenor.com/zCEj81VKngEAAAAi/potato.gif" width="50">
+  <br/>
+  <em><b>Let's build something impactful together!</b> 😃</em>
+</div>
